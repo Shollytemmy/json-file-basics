@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": [
+            {
+                "firstName": "data1",
+                "lastName": "lastData"
+            }
+        ],
+
+        "image": {"small" : "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=100"},
+        "class": null
+    
+
+    },
+
+     {
+         "id": 2,
+        "name": [
+            {
+                "firstName": "data2",
+                "lastName": "lastData2"
+            }
+        ],
+
+        "image": {"small" : "https://static.toiimg.com/thumb/resizemode-4,msid-76729750,imgsize-249247,width-100/76729750.jpg"},
+         "class": "Senior level"
+
+
+    },
+
+     {
+         "id": 3,
+        "name": [
+            {
+                "firstName": "data3",
+                "lastName": "lastData3"
+            }
+        ], 
+
+        "image": {"small" : "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=100"},
+        "class":"Junior level"
+
+    }
+]
